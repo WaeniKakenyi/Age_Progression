@@ -1,6 +1,7 @@
 # **Age Progression/Regression by Conditional Generative Adversarial Network (CGAN) Project**
 
-![my-image jpg](https://user-images.githubusercontent.com/110460207/212460474-8823f115-0cbf-4fb3-85b8-258738e26dc0.jpg)
+![my-image jpg](https://user-images.githubusercontent.com/110460207/212465025-5eb7c518-1ac4-447f-8128-49276bda03b6.png)
+
 
 
 ##
