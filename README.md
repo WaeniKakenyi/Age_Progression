@@ -10,7 +10,7 @@ The goal of this project is to generate an image or video of a person as they wo
 # **Pre- requisites** 
 * Python 3.9
 * TensorFlow v2.11
-* Pytorch 0.3.1
+* Pytorch 2.0
 
 # **Datasets**
 UTKFace(Access from the [github link](https://susanqq.github.io/UTKFace/))
