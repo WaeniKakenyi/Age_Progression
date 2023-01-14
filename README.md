@@ -1,6 +1,6 @@
 # **Age Progression/Regression by Conditional Generative Adversarial Network (CGAN) Project**
 
-![my-image jpg](https://user-images.githubusercontent.com/110460207/212465025-5eb7c518-1ac4-447f-8128-49276bda03b6.png)
+![my-image jpg](https://user-images.githubusercontent.com/110460207/212465594-a0663e3d-3834-4690-9194-d0c192b6f51f.png)
 
 
 
@@ -10,7 +10,7 @@ The goal of this project is to generate an image or video of a person as they wo
 # **Pre- requisites** 
 * Python 3.9
 * TensorFlow v2.11
-* cv2 v4.7
+* Pytorch 0.3.1
 
 # **Datasets**
 UTKFace(Access from the [github link](https://susanqq.github.io/UTKFace/))
@@ -38,6 +38,12 @@ Based on our evaluation,       model was the best based on our         criteria,
 ## Citation 
 * Zhifei Zhang, Yang Song, and Hairong Qi. "Age Progression/Regression by Conditional Adversarial Autoencoder." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
 * Elmahmudi, A., Ugail, H. A framework for facial age progression and regression using exemplar face templates. Vis Comput 37, 2023–2038 (2021).
+* @inproceedings{Li2020AgePA,
+title={Age Progression and Regression with Spatial Attention Modules},
+author={Qi Li and Yunfan Liu and Zhenan Sun},
+booktitle={AAAI},
+year={2020}
+}
 
 
 ## License
