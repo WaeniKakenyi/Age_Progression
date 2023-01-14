@@ -13,11 +13,11 @@ The goal of this project is to generate an image or video of a person as they wo
 * Pytorch 2.0
 
 # **Datasets**
-UTKFace(Access from the [github link](https://susanqq.github.io/UTKFace/))
+UTKFace (Access from the [github link](https://susanqq.github.io/UTKFace/))
 
 # **Data Pre-processing**
 * Resizing & Normalization - We resize the images to a uniform size and normalize the pixel values to a range of between o and 1 to help converge the model better
-* Data Augmentation - Generating additional training data by applying random transformations to the original images to help the model learn better such as rotation range, zoom range, horizontal flip, fill_mode. 
+* Data Augmentation - Generating additional training data by applying random transformations to the original images to help the model learn better such as rotation range, zoom range, horizontal flip, fill mode. 
 * Noise Reduction - This helps the learning of the model easier as it identifies patterns and helps with the ovefitting
 
 
