@@ -15,6 +15,10 @@ The goal of this project is to generate an image or video of a person as they wo
 # **Datasets**
 UTKFace (Access from the [github link](https://susanqq.github.io/UTKFace/))
 
+## Prepare the training dataset
+You may use any dataset with labels of age and gender. In this demo, we use the UTKFace dataset. It is better to use aligned and cropped faces. Please save and unzip `UTKFace.tar.gz` to the folder `data`.
+
+
 # **Data Pre-processing**
 * Resizing & Normalization - We resize the images to a uniform size and normalize the pixel values to a range of between o and 1 to help converge the model better
 * Data Augmentation - Generating additional training data by applying random transformations to the original images to help the model learn better such as rotation range, zoom range, horizontal flip, fill mode. 
