@@ -1,7 +1,6 @@
 # **Age Progression/Regression by Generative Adversarial Network (GAN) Project**
 
-![my-image jpg](https://user-images.githubusercontent.com/110460207/212765482-111aa449-eb24-4e8d-934b-8e1e72a16c9e.png)
-
+![my-image jpg](https://user-images.githubusercontent.com/110460207/212765698-66d97f58-f27c-4061-9235-43a5c7513eb3.png)
 
 
 ##
