@@ -8,7 +8,7 @@
 The goal of this project is to generate an image or video of a person as they would look at a future point in time. This can be used for various purposes such as forensic investigations, personal curiosity, or creating visual effects in movies and TV shows.
 
 # **Pre- requisites** 
-* Python 3.9
+* Python 3.7.9
 * TensorFlow v2.11
 * Pytorch 2.0
 
