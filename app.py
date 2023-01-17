@@ -5,7 +5,7 @@ import base64
 import replicate
 import os
 
-os.environ["REPLICATE_API_TOKEN"] = '0aa7780cda0b711d75de41356b5ac4703f0d'
+os.environ["REPLICATE_API_TOKEN"] = '6e020aa7780cda0b711d75de41356b5ac4703f0d'
 
 model = replicate.models.get("yuval-alaluf/sam")
 version = model.versions.get("9222a21c181b707209ef12b5e0d7e94c994b58f01c7b2fec075d2e892362f13c")
