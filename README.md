@@ -35,7 +35,7 @@ You may use any dataset with labels of age and gender. In this demo, we use the 
 
 
 ## Deployment 
-Based on our evaluation,       model was the best based on our         criteria, so we deployed it. We used Streamlit to deploy the model, where users can upload images. After uploading the photo, the model provides an image as young or old, based on how the user uses the slider tool to indicate the age they want to view. This is the link to the deployed model.
+Based on our evaluation,the style GAN model was the best based on our visual evaluation criteria, so we deployed it. We used Streamlit to deploy the model, where users can upload images. After uploading the photo, the model provides an image as young or old, based on how the user uses the slider tool to indicate the age they want to view. This is the link to the deployed model.
 
 ## Citation 
 * Zhifei Zhang, Yang Song, and Hairong Qi. "Age Progression/Regression by Conditional Adversarial Autoencoder." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
@@ -46,6 +46,7 @@ author={Qi Li and Yunfan Liu and Zhenan Sun},
 booktitle={AAAI},
 year={2020}
 }
+Liu, J., Liu, R., Li, H., & Liu, S. (2021). Face Aging GAN: Age Progression/Regression of Face Images with Identity Preserved. arXiv preprint arXiv:2102.02754.
 
 
 ## License
